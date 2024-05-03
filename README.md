@@ -23,17 +23,18 @@
 
 # Connect with me
 <p align="left">
+<a href="https://www.geeksforgeeks.org/user/uy1544y0c/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/uy1544y0c/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/uy_154788/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="https://leetcode.com/u/uy_154788/" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/uy_154788" target="blank"><img align="center" src="https://cdn.dribbble.com/users/70628/screenshots/1743345/codechef.png" alt="https://www.codechef.com/users/uy_154788" height="30" width="40" /></a>
+<a href="https://www.naukri.com/code360/profile/4e360aa0-3d2d-4147-b3c6-d040544102bd" target="blank"><img align="center" src="https://www.financialexpress.com/wp-content/uploads/2023/05/APIS-and-NxtWave-image-37-3.jpg" alt="https://www.naukri.com/code360/profile/4e360aa0-3d2d-4147-b3c6-d040544102bd" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/uy154788" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@uy154788" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/upendra-yadav-157338241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/upendra-yadav-157338241/" height="30" width="40" /></a> 
+  <a href="https://www.instagram.com/yaduvansh_upendra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yaduvansh_upendra" height="30" width="40" /></a>
+ <a href="https://twitter.com/uy154788" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="uy154788" height="30" width="40" /></a> 
+<a href="https://www.kaggle.com/upendrayadav1411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/upendrayadav1411" height="30" width="40" /></a>
 <a href="https://codepen.io/Upendra-Yadav-the-lessful" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@Upendra-Yadav-the-lessful" height="30" width="40" /></a>
-<a href="https://twitter.com/uy154788" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="uy154788" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/upendra-yadav-157338241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/upendra-yadav-157338241/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/23140237/shani-soni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/23140237/shani-soni" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/shanisoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/shanisoni" height="30" width="40" /></a>
-<a href="https://fb.com/shani soni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shani soni" height="30" width="40" /></a>
-<a href="https://instagram.com/shani_soni__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shani_soni__" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@shanisoni7084" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@shanisoni7084" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://www.hackerearth.com/@shanisoni7084" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@shanisoni7084" height="30" width="40" /></a>
-  <a href="https://leetcode.com/u/uy_154788/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://leetcode.com/u/uy_154788/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/shaniso5a2g/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/shaniso5a2g/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/24857458/upendra-yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/24857458/upendra-yadav" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/uy154788" target="blank"><img align="center" src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062020/codeforces_logo.png?Qlx1_zCw.Q4T7PHPosbkLyNiBJQWX7GD&itok=6wPhjh1X" alt="uy154788" height="30" width="40" /></a>
 </p>
 
 
@@ -56,6 +57,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shanisoni&" alt="shanisoni" /></p>  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shanisoni&show_icons=true&locale=en" alt="shanisoni" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shanisoni&show_icons=true&locale=en&layout=compact" alt="shanisoni" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uy154788&" alt="uy154788" /></p>  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uy154788&show_icons=true&locale=en" alt="uy154788" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uy154788&show_icons=true&locale=en&layout=compact" alt="uy154788" /></p>
