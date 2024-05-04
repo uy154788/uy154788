@@ -1,7 +1,7 @@
 
 
 <div align="center"> <img src="https://github.com/uy154788/uy154788/blob/main/Screenshot%202024-05-03%20210605.png"> </div>
- <h3 align="center">A passionate Full Stack Web Developer </h3>
+ <h3 align="center">A passionate C++ programmer </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uy154788&label=Profile%20views&color=0e75b6&style=flat" alt="uy154788" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uy154788" alt="uy154788" /></a> </p>
@@ -37,7 +37,15 @@
 <a href="https://codeforces.com/profile/uy154788" target="blank"><img align="center" src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062020/codeforces_logo.png?Qlx1_zCw.Q4T7PHPosbkLyNiBJQWX7GD&itok=6wPhjh1X" alt="uy154788" height="30" width="40" /></a>
 </p>
 
-
+## All DSA Badges @LeetCode
+<p align="center">
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" width="60px" style="margin-right: 50px;">
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="60px" style="margin-right: 10px;">
+    <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-04.gif" width="60px" style="margin-right: 10px;">
+    <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-03.gif" width="60px" style="margin-right: 10px;">
+    <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-02.gif" width="60px" style="margin-right: 10px;">
+    <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-01.gif" width="60px">
+</p>
 
 
 
