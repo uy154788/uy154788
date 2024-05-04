@@ -1,7 +1,7 @@
 
 
 <div align="center"> <img src="https://github.com/uy154788/uy154788/blob/main/Screenshot%202024-05-03%20210605.png"> </div>
-<h3 align="center">A passionate Full Stack Web Developer </h3>
+ <h3 align="center">A passionate Full Stack Web Developer </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uy154788&label=Profile%20views&color=0e75b6&style=flat" alt="uy154788" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uy154788" alt="uy154788" /></a> </p>
