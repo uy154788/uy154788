@@ -4,7 +4,7 @@
  <h3 align="center">A passionate C++ programmer </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uy154788&label=Profile%20views&color=0e75b6&style=flat" alt="uy154788" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uy154788" alt="uy154788" /></a> </p>
+ <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=santoshsaroj0032&row=2&column=9&theme=onedark&no-frame=false&no-bg=false&margin-w=15&margin-h=15-ma&theme=discord" alt="santoshsaroj0032" /> </a>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <a href="https://twitter.com/uy154788" target="blank"><img src="https://img.shields.io/twitter/follow/uy154788?logo=twitter&style=for-the-badge" alt="uy154788" /></a> </p>
