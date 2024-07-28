@@ -54,6 +54,9 @@
     <img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-12.gif" width="60px" style="margin-right: 10px;">
     <img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-11.gif" width="60px" style="margin-right: 10px;">
     <img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-10.gif" width="60px" style="margin-right: 10px;">
+    <img src="https://assets.leetcode.com/static_assets/others/LeetCode_75.gif" width="60px" style="margin-right: 10px;">
+    <img src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" width="60px" style="margin-right: 10px;">
+    <img src="https://assets.leetcode.com/static_assets/others/Top_100_Liked.gif" width="60px" style="margin-right: 10px;">
 </p>
 
 
